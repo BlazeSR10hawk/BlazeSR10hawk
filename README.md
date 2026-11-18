@@ -32,7 +32,9 @@
 <a href="https://github.com/huggingface/transformers/pull/50214">#50214</a> ·
 <a href="https://github.com/huggingface/transformers/pull/49900">#49900</a> ·
 <a href="https://github.com/huggingface/transformers/pull/49908">#49908</a> .
-<a href="https://github.com/huggingface/transformers/pull/50856">#50856</a>
+<a href="https://github.com/huggingface/transformers/pull/50856">#50856</a> .
+<a href="https://github.com/huggingface/transformers/pull/50883">#50883</a> 
+
 </p>
 
 <br>
